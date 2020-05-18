@@ -12,7 +12,7 @@ def loop_message_n_times(array)
   counter = 0 
   
   if counter < 5
-  puts array[0]
+  puts array[0, 1]
   
   if counter < 10
   puts array[1]
