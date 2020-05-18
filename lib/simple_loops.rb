@@ -14,14 +14,17 @@ def loop_message_n_times(string)
   puts "Hello Moon.\n"
   counter += 1
 end
+end 
 
 def output_array(array)
   array[0]
 end
+end 
 
 def return_string_array(array)
   counter = 0 
   while counter > array.length 
   puts array[counter]
   counter += 1 
-end end 
+end 
+end 
