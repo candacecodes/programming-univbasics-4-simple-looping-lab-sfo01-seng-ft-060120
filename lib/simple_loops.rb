@@ -7,7 +7,13 @@ counter = 0
  end
 end
 
-def loop_message_n_times(string, Integer)
+def loop_message_n_times(string)
   counter = 0 
   
-  while counter < Integer'
+  if counter < 5
+  puts "Hello Moon.\n"
+  end 
+  if counter < 10
+  puts "Hello Red Balloon.\n"
+  end 
+end 
