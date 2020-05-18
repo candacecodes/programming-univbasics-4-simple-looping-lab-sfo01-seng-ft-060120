@@ -10,4 +10,6 @@ end
 def loop_message_n_times(string)
 for counter in 0..5 do
   puts "Hello Moon.\n"
+for counter in 0..10 do
+  puts "Hello Moon.\n"
 end
