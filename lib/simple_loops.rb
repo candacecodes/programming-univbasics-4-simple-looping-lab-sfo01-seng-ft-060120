@@ -14,3 +14,6 @@ def loop_message_n_times(string)
   puts "Hello Moon.\n"
   counter += 1
 end
+
+def output_array(array)
+  array[0]
