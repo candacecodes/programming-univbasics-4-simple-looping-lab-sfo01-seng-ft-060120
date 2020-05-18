@@ -7,7 +7,7 @@ counter = 0
  end
 end
 
-def loop_message_n_times(string, 5)
+def loop_message_n_times(string)
   counter = 0 
   
   while counter < 5
