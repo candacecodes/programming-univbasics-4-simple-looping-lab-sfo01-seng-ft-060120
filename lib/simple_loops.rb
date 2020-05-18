@@ -7,7 +7,8 @@ counter = 0
  end
 end
 
-def loop_message_n_times(string, string2)
+def loop_message_n_times(array)
+  ["Hello Moon.\n", ]
   counter = 0 
   
   if counter < 5
