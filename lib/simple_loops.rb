@@ -22,3 +22,4 @@ end
 def return_string_array(array)
   counter = 0 
   array[counter] > array.length 
+  puts counter 
