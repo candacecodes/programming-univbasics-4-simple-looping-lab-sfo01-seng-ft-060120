@@ -8,13 +8,6 @@ counter = 0
 end
 
 def loop_message_n_times(string)
-  ["Hello Moon.\n", "Hello Red Balloon.\n"]
-  counter = 0 
-  
-  if counter < 5
-  puts array[0, 1]
-  
-  if counter < 10
-  puts array[1]
-  end 
-end 
+for counter in 0..5 do
+  puts "Hello Moon.\n"
+end
