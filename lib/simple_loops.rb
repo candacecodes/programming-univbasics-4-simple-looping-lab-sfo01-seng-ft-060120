@@ -12,7 +12,7 @@ def loop_message_n_times(string)
   
   if counter < 5
   puts "Hello Moon.\n"
-  end 
+  
   else if counter < 10
   puts "Hello Red Balloon.\n"
   end 
