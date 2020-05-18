@@ -7,7 +7,7 @@ counter = 0
  end
 end
 
-def loop_message_n_times(array)
+def loop_message_n_times(string)
   ["Hello Moon.\n", "Hello Red Balloon.\n"]
   counter = 0 
   
